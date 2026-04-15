@@ -2,10 +2,18 @@
 
 <h1>Integrantes:</h1>
 
-<h2>Scrum Master: Benitez Matias<h2>
-<h2>Product Owner: Lujan Troche<h2>
-<h2>Dev Team: Ariana Arevalo, Leonardo Staciuk<h2>
+| Roles         | Nombres           | Git Hub                                           |
+| :---          |    :----:         |                                             ---: |
+| Scrum Master  | Benitez Matias    | <a href="https://github.com/Neubz24">Neubz24    </a>      |
+| Product Owner | Lujan Troche      | <a href="https://github.com/lujantroche464-glitch">lujantroche464-glitch</a>               |
+| Dev Team      | Ariana Arevalo    | <a href="https://github.com/arianaarevalo-bot">arianaarevalo-bot</a>          |
+| Dev Team      | Leonardo Staciuk  | <a href="https://github.com/Leonardo-nwn">Leonardo-nwn</a>          |
 
-<h2>Link Drive: https://drive.google.com/drive/folders/1YUIXpQHAkAkRhqj9ab0jsOP95xio_Urv?usp=drive_link <h2>
+<h2>Link Drive: https://drive.google.com/drive/folders/1YUIXpQHAkAkRhqj9ab0jsOP95xio_Urv?usp=drive_link</h2>
 
-<h2>Herramientas Utilizadas: Google Drive, Google, Etc.</h2>
+<h2>Herramientas Utilizadas:</h2> 
+  <ul>
+  <li>Google Drive</li>
+  <li>Google</li>
+  <li>Word</li>
+</ul>
