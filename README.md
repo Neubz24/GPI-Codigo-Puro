@@ -8,4 +8,4 @@
 
 <h2>Link Drive: https://drive.google.com/drive/folders/1YUIXpQHAkAkRhqj9ab0jsOP95xio_Urv?usp=drive_link <h2>
 
-<h2>Herramientas Utilizadas: Google Drive, Gemini, Google, Etc.</h2>
+<h2>Herramientas Utilizadas: Google Drive, Google, Etc.</h2>
