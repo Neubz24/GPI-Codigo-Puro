@@ -2,7 +2,7 @@
 
 <h1>Integrantes:</h1>
 
-| Roles         | Nombres           | Git Hub                                           |
+| Roles         | Alumnos           | Git Hub                                           |
 | :---          |    :----:         |                                             ---: |
 | Scrum Master  | Benitez Matias    | <a href="https://github.com/Neubz24">Neubz24    </a>      |
 | Product Owner | Lujan Troche      | <a href="https://github.com/lujantroche464-glitch">lujantroche464-glitch</a>               |
