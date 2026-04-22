@@ -11,7 +11,7 @@
 
 <h2>Tareas de cada Rol</h2>
 <h3>Scrum Master: Creación del Repositorio, organizacion del mismo, proveer acceso a los compañeros.</h3>
-<h3>Product Owner: Creación de las carpetas en Google Drive.</h3>
+<h3>Product Owner: Creación y organización de las carpetas en Google Drive.</h3>
 <h3>Dev Team: Investigación de información técnica, redacción y organización de contenidos.</h3>
 
 <h2>Link Drive: https://drive.google.com/drive/folders/1YUIXpQHAkAkRhqj9ab0jsOP95xio_Urv?usp=drive_link</h2>
